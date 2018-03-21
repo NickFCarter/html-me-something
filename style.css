@@ -1,0 +1,51 @@
+* {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.main_imgs {
+        max-width: 100%;
+        height: auto;
+}
+
+#open {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    background-color: #cc00cc;
+    text-shadow: 5px 5px 10px #000000;
+    color: white;
+}
+
+h1 {
+    font-family: 'Adelle W01 Bold';
+    font-size: 8.5em;
+}
+
+#title_text {
+    font-size: 3em;
+}
+
+main {
+    background-color: #ace600;
+    margin: auto;
+    text-align: center;
+}
+
+h3 {
+    font-family: Arial;
+    font-size: 4.2em;
+    color: white;
+    text-shadow: 3px 3px 6px black;
+}
+
+article p {
+    font-family: Arial;
+    font-size: 2em;
+    color: #4d194d;
+}
+
+footer{
+    background-color: #4d194d;
+    color: white;
+}
